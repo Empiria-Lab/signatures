@@ -14,11 +14,11 @@ Las firmas se pueden copiar y pegar, el logo est√° optimizado para email. Tambi√
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/signatures/ccisternas.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/ccisternas.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * * 
 
-<iframe src="https://empiria-lab.github.io/signatures/clopez.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/clopez.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * *
 
@@ -26,15 +26,15 @@ Las firmas se pueden copiar y pegar, el logo est√° optimizado para email. Tambi√
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/signatures/bgonzalezbustamante.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/bgonzalezbustamante.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/signatures/daguilar.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/daguilar.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/signatures/nverelst.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/nverelst.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * *
 
@@ -42,4 +42,4 @@ Las firmas se pueden copiar y pegar, el logo est√° optimizado para email. Tambi√
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/signatures/josemiguelgarcia.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/josemiguelgarcia.html" style="width:100%;height:200px;border:0;"></iframe>
