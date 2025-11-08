@@ -1,5 +1,7 @@
-# Empiria Lab
+## Directoras
 
-## Bastián González-Bustamante
+<iframe src="https://empiria-lab.github.io/signatures/ccisternas.html" style="width:100%;height:200px;border:0;"></iframe>
 
-<iframe src="https://empiria-lab.github.io/signatures/plain.html" style="width:100%;height:200px;border:0;"></iframe>
+## Investigadores
+
+<iframe src="https://empiria-lab.github.io/signatures/bgonzalezbustamante.html" style="width:100%;height:200px;border:0;"></iframe>
