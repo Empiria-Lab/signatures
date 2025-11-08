@@ -10,17 +10,17 @@ Las cuentas que aparecen en [https://empirialab.cl/equipo](https://empirialab.cl
 
 # Firmas de correo
 
-Las firmas se pueden copiar y pegar, el logo está optimizado para email. También es posible acceder al código HTML en el repositorio de GitHub.
+Las firmas se pueden copiar y pegar, el logo está optimizado para email. También es posible acceder al código HTML en el [repositorio de GitHub](https://github.com/Empiria-Lab/email/tree/main/docs/signatures).
 
 ## Directoras
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/email/ccisternas.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/signatures/ccisternas.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * * 
 
-<iframe src="https://empiria-lab.github.io/email/clopez.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/signatures/clopez.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * *
 
@@ -28,15 +28,15 @@ Las firmas se pueden copiar y pegar, el logo está optimizado para email. Tambi�
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/email/bgonzalezbustamante.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/signatures/bgonzalezbustamante.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/email/daguilar.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/signatures/daguilar.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/email/nverelst.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/signatures/nverelst.html" style="width:100%;height:200px;border:0;"></iframe>
 
 * * *
 
@@ -44,4 +44,4 @@ Las firmas se pueden copiar y pegar, el logo está optimizado para email. Tambi�
 
 * * *
 
-<iframe src="https://empiria-lab.github.io/email/josemiguelgarcia.html" style="width:100%;height:200px;border:0;"></iframe>
+<iframe src="https://empiria-lab.github.io/email/signatures/josemiguelgarcia.html" style="width:100%;height:200px;border:0;"></iframe>
