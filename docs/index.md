@@ -16,4 +16,8 @@ Se pueden copiar y pegar, el logo está optimizado para email. También es posib
 
 ## Colaboradores
 
+* * *
+
 <iframe src="https://empiria-lab.github.io/signatures/josemiguelgarcia.html" style="width:100%;height:200px;border:0;"></iframe>
+
+* * *
