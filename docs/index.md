@@ -8,6 +8,8 @@ Para soporte con el correo electrónico y creación de cuentas adicionales, por 
 
 Migadu ofrece un mayor control sobre los filtros de SPAM. Si están recibiendo ese tipo de mensajes de una cuenta específica, por favor, repórtenlos a [soporte@empirialab.cl](mailto:soporte@empirialab.cl). No es necesario reenviar el mensaje, solo indicar el correo que les está enviando SPAM.
 
+Se puede consultar el **status del correo en [https://status.migadu.com](https://status.migadu.com)**.
+
 # Firmas de correo
 
 Las firmas se pueden copiar y pegar, el logo está optimizado para email. También es posible acceder al código HTML en el [repositorio de GitHub](https://github.com/Empiria-Lab/email/tree/main/docs/signatures).
